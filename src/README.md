@@ -1,7 +1,7 @@
 Node: This README does not appear to be consistent with the 0.5.4 branch
 
-File(s)|Description
--|-
+File(s) | Description
+--- | ---
 3dmeditor.cpp, 3dmeditor_sub.cpp | 3DM Editor, import 3D Models to 3DM format, allows texturings, selecting materials
 3do.\* | module to manage 3do files (TA's 3D models) and 3dm models
 EngineClass.\* | the core of the engine
